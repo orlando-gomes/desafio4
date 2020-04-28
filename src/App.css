@@ -1,0 +1,92 @@
+
+
+.container {
+  background-color: #E6E6E6;
+  padding: 20px 0;
+}
+
+.header {
+  background-color: #4A90E2;
+  width: 100%;
+  height: 46px;
+  color: #FFFFFF;
+  padding-top: 16px;
+}
+
+.htitle {
+  font-size: 24px;
+  float: left;
+  padding-left: 30px;
+}
+
+.hlink {
+  font-size: 24px;
+  float: right;
+  padding-right: 10px;
+}
+
+.himage{
+  width: 30px;
+  float: right;
+  border-radius: 20px;
+  margin-right: 50px;
+}
+
+.postlist {
+  margin: 0 auto;
+  width: 700px;
+}
+
+.post {
+  background-color: white;
+  margin: 20px 0;
+  padding: 20px 0 50px 20px;
+}
+
+.pimg {
+  width: 30px;
+  display: block;
+  float: left;
+  border-radius: 20px;
+}
+
+.pnmdt {
+  padding-left: 50px;
+}
+
+.pnm {
+  font-weight: bold;
+}
+
+.pdt {
+  color: #999999;
+}
+
+.pcontent {
+  padding-top: 10px;
+}
+
+.comment {
+  padding: 20px 0;
+  margin-bottom: 20px;
+}
+
+.cimg {
+  width: 30px;
+  display: block;
+  float: left;
+  border-radius: 20px;
+}
+
+.ccontent {
+  width: 89%;
+  padding: 0 0 10px 10px;
+  margin-left: 20px;
+  float: left;
+  background-color: #E6E6E6;
+  border-radius: 10px;
+}
+
+.cname {
+  font-weight: bold;
+}
